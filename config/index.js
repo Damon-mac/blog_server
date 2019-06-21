@@ -6,7 +6,7 @@ export default {
     port: '3306',
     database: 'myblog',
     user: 'root',
-    password: 'zhu306002327'
+    password: '123456'
   },                    
   redis: {
     port: 6379,
