@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Skip to content
  
 Search or jump to…
@@ -16,6 +17,8 @@ blog_server/.gitignore
 280424e 1 minute ago
 62 lines (44 sloc)  914 Bytes
     
+=======
+>>>>>>> 280424e59d05064ba4af89ab4a56a5b28b06b650
 # Logs
 logs
 *.log
@@ -77,15 +80,3 @@ typings/
 
 # next.js build output
 .next
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
